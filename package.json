@@ -1,10 +1,10 @@
 {
-  "name": "lewis-gatsby-starter-blog",
-  "description": "A custom Gatsby starter template to start a blog or personal website.",
-  "author": "@lewislbr",
+  "name": "lakshmi-reddy-blog",
+  "description": "Professor in Art and Design, and a Practicing Artist.",
+  "author": "@shubham-kaushal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lewislbr/lewis-gatsby-starter-blog"
+    "url": "https://github.com/shubham-kaushal/lakshmi-reddy-blog"
   },
   "version": "0.1.0",
   "license": "MIT",
