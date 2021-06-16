@@ -47,14 +47,13 @@ const Post = styled.div`
 export default function Home({data}) {
   return (
     <>
-      <SEO title="Blog" />
+      <SEO title="Professor Dr. R. Lakshmi Reddy Blog" />
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Lewis Gatsby Starter Blog</HeadingXL>
+          <HeadingXL>Professor Dr. R. Lakshmi Reddy Blog</HeadingXL>
           <TextHome>
-            This is a custom Gatsby starter template to start a new blog or
-            personal website.
+            Researcher of Art, Craft, Design, and a practicing artist.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
