@@ -51,9 +51,9 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Professor Dr. R. Lakshmi Reddy Blog</HeadingXL>
+          <HeadingXL>Practicisng Artist, and Art & Craft Design Researcher</HeadingXL>
           <TextHome>
-            Researcher of Art, Craft, Design, and a practicing artist.
+            Currently Professor in Fashion & Lifestyle Accessory Design Dept., NIFT Hyderabad.
           </TextHome>
         </Hero>
         {data.allMarkdownRemark.edges.map(({node}) => (
