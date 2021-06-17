@@ -51,7 +51,7 @@ export default function Home({data}) {
       <HeaderLogo />
       <Layout>
         <Hero>
-          <HeadingXL>Practicisng Artist, and Art & Craft Design Researcher</HeadingXL>
+          <HeadingXL>Practicing Artist, and Art & Craft Design Researcher</HeadingXL>
           <TextHome>
             Currently Professor in Fashion & Lifestyle Accessory Design Dept., NIFT Hyderabad.
           </TextHome>
